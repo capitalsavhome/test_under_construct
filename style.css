@@ -33,3 +33,39 @@
 #colMainTime{
   background-color: white;
 }
+
+#colDays{
+  background-color: green;
+}
+
+#colHours{
+  background-color: yellow;
+}
+
+#colMinutes{
+  background-color: red;
+}
+
+#colSeconds{
+  background-color: blue;
+}
+
+.rowDigit{
+  height: 80%;
+}
+
+.rowTitleDigit{
+  height: 20%;
+}
+
+.dataCol{
+  background-color: black;
+}
+
+.pDigit{
+  color: white;
+}
+
+.pTitleDigit{
+  color: white;
+}
