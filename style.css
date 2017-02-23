@@ -10,3 +10,18 @@
 .absoluteHeight{
   height: 100%;
 }
+
+#rowSpace1{
+  height: 140px;
+  background-color: red;
+}
+
+#rowMainText{
+  height: 130px;
+  background-color: blue;
+}
+
+#rowMainTime{
+  height: 110px;
+  background-color: black;
+}
