@@ -1,0 +1,12 @@
+#mainRow{
+  background-color: yellow;
+  height: 700px;
+}
+
+#mainCol{
+  background-color: green;
+}
+
+.absoluteHeight{
+  height: 100%;
+}
